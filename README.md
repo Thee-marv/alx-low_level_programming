@@ -1,2 +1,1 @@
-Project
-C programming started!!!
+Readme file for ALX low level programming
